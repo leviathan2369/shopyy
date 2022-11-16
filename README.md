@@ -1,8 +1,33 @@
 # Shoppy
 
-> This project is a personnal Flutter E-Commerce project back-end & front-end
->
-> This buying application is built by the use of ##Flutter <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> , ##javascript ,##nodejs <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> ,##mongoDB <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>,Express and Mongoose. 
+## Features
+- Email & Password Authentication
+- Persisting Auth State
+- Searching Products
+- Filtering Products (Based on Category)
+- Product Details
+- Rating
+- Getting Deal of the Day
+- Cart
+- Checking out with Google/Apple Pay
+- Viewing My Orders
+- Viewing Order Details & Status
+- Sign Out
+- Admin Panel
+    - Viewing All Products
+    - Adding Products
+    - Deleting Products
+    - Viewing Orders
+    - Changing Order Status
+    - Viewing Total Earnings
+    - Viewing Category Based Earnings (on Graph)
 
+<p align="center">
+  ![Sans titre](https://user-images.githubusercontent.com/95426950/202179958-18ea8c7c-a9fc-48e9-81a5-a4eb2a8e744d.png)
 
-> #Shoppy works on Ios and android devices  
+</p>
+
+<p align="center">
+  ![Sans titre2](https://user-images.githubusercontent.com/95426950/202179973-749a30d3-9ac1-4483-b63d-70ccce9da734.png)
+
+</p>
