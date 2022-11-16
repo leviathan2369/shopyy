@@ -23,11 +23,12 @@
     - Viewing Category Based Earnings (on Graph)
 
 <p align="center">
- ![Sans titre2](/images/user-images.githubusercontent.com/95426950/202181106-9faf4695-0d18-4cc3-a238-de1d6f8d0af6.png)
+![Sans titre](https://user-images.githubusercontent.com/95426950/202185432-db2b6572-e694-4e1f-b86a-26738813ef97.png)
+
 
 </p>
 
 <p align="center">
- [[https://github.com/leviathan2369/shopyy.wiki.git]]
+
 
 </p>
